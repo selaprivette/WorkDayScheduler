@@ -12,5 +12,5 @@ An interactive planner/schedule for your workday plans. User can update informat
 ![Schedule](images/schedule.png)
 
 ## Resources
-- [Live Site](https://selaprivette.github.io/CodeQuiz/) 
-- [Repository](https://github.com/selaprivette/CodeQuiz)
+- [Live Site](https://selaprivette.github.io/WorkDayScheduler/) 
+- [Repository](https://github.com/selaprivette/WorkDayScheduler)
